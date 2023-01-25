@@ -1,5 +1,5 @@
 ============
-Setup Sphinx
+Sphinx
 ============
 
 For a simple setup, check out `this link`_.
@@ -7,6 +7,9 @@ To see a list of how to use .rst sytax, check here_.
 
 .. _this link: https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
 .. _here: https://docutils.sourceforge.io/docs/user/rst/quickref.html
+
+https://docs.restructuredtext.net/
+https://pradyunsg.me/furo/reference/tabs/
 
 Title
 =====

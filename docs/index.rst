@@ -10,7 +10,11 @@ Welcome to General Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   ./source/sphinx/general.rst
+   ./source/sphinx/index.rst
+   ./source/python/index.rst
+   ./source/react/index.rst
+   ./source/web/index.rst
+   ./source/devops/index.rst
 
 
 
