@@ -7,4 +7,6 @@ DevOps
    :caption: Contents:
 
    ./source/general.rst
+   ./source/docker.rst
+   ./source/python.rst
 
